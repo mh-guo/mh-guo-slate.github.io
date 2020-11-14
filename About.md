@@ -9,7 +9,6 @@ main_nav: true
 
 I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/). 
 
-#Research Interests
 I am interested in both theoretical and observational astrophysics. 
 
 You can find out more info about me in my [Homepage](https://mh-guo.github.io/)
