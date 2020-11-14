@@ -13,8 +13,8 @@ title: Minghao Guo 郭明浩
 subtitle: ""
 email: gmh@pku.edu.cn
 name: Minghao Guo
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+#description: >
+#  A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
