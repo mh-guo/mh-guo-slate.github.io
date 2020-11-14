@@ -5,4 +5,5 @@ permalink: /Research/
 main_nav: true
 ---
 
-You can download my CV [here](CV.pdf)
+I am interested in both theoretical and observational astrophysics. I have done several research with Prof. 
+I'm currently an undergraduate from Peking University under the supervision of Prof. Luis C. Ho and Kohei Inayoshi.
