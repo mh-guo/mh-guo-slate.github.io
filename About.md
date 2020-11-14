@@ -7,7 +7,10 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile_Minghao.jpg "Profile Picture"){:.profile}
 
-I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/).
+I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/). 
+
+#Research Interests
+I am interested in both theoretical and observational astrophysics. 
 
 You can find out more info about me in my [Homepage](https://mh-guo.github.io/)
 
