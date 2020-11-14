@@ -5,6 +5,7 @@ permalink: /CV/
 main_nav: true
 ---
 
+You can download my CV [here](CV.pdf)
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
