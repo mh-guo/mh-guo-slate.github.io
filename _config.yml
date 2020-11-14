@@ -1,1 +1,18 @@
 theme: jekyll-theme-slate
+title: Minghao Guo 郭明浩
+email: gmh@pku.edu.cn
+
+description: > # this means to ignore newlines until "baseurl:"
+  Homepage of Minghao Guo 郭明浩, an undergraduate in Peking University. <br>
+  Enjoy black hole, cosmology, and love! 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://mh-guo.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# This will require each of these plugins automatically.
+plugins:
+  - image
+  - jekyll-seo-tag
+  
