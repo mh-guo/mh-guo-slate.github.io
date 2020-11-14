@@ -99,8 +99,8 @@ social:
 
   - name: ORCID
     icon: ORCID
-    username: mh-guo
-    url: https://github.com/mh-guo
+    username: ""
+    url: ""
     desc: Fork me on GitHub
     share: false
  
