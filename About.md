@@ -7,9 +7,11 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile_Minghao.jpg "Profile Picture"){:.profile}
 
-I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/). 
+I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/), supervised by Prof. Luis C. Ho, Victor P. Debattista, Kohei Inayoshi and Lijing Shao.
 
-I am interested in both theoretical and observational astrophysics. 
+I major in physics with particular interest in astrophysics and broad background in mathematics and computer science. I am interested in a variety of intriguing topics in astronomy and astrophysics, especially black hole astrophysics, cosmology, galaxy formation, gravitational wave and gravity test. I generally use numerical techniques and tools to investigate the abundant phenomenon in various fields in astrophysics. I have experience on doing research involving theoretical, numerical and observational astrophysics, e.g., coevolution between supermassive black holes and host galaxies, black hole accretions as well as modified gravity and the application onto neutron stars.
+
+
 
 You can find out more info about me in my [Homepage](https://mh-guo.github.io/)
 
