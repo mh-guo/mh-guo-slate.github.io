@@ -5,11 +5,11 @@ permalink: /Research/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/wandering_BH.png "Profile Picture"){:.profile}
-
 I am interested in both theoretical and observational astrophysics. I have done several research with Prof. 
 I'm currently an undergraduate from Peking University under the supervision of Prof. Luis C. Ho and Kohei Inayoshi.
 
 <h1> Hunting for Wandering Black Hole </h1>
+
+![alt text]({{ site.baseurl }}/assets/wandering_BH.png "Profile Picture"){:.profile}
 
 We employ
