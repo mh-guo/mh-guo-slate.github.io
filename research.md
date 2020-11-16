@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-permalink: /research/
+permalink: /Research/
 main_nav: true
 ---
 
