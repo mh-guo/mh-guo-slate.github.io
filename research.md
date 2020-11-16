@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Research"
-permalink: /Research/
+permalink: /research/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/wandering_BH.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/wandering_BH.png "Profile Picture"){:.profile}
 
 I am interested in both theoretical and observational astrophysics. I have done several research with Prof. 
 I'm currently an undergraduate from Peking University under the supervision of Prof. Luis C. Ho and Kohei Inayoshi.
