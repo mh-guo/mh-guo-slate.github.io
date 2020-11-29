@@ -5,10 +5,11 @@ permalink: /research/
 main_nav: true
 ---
 
-I am interested in both theoretical and observational astrophysics. I have done several research with Prof. 
-I'm currently an undergraduate from Peking University under the supervision of Prof. Luis C. Ho and Kohei Inayoshi.
+I am interested in both theoretical and observational astrophysics.
 
 <h1> Hunting for Wandering Black Hole </h1>
+
+Advisors: [Kohei Inayoshi](https://inayoshi0328.wixsite.com/kohei-inayoshi) [Luis C. Ho](http://kavli.pku.edu.cn/~lho/)
 
 ![alt text]({{ site.baseurl }}/assets/wandering_BH.png "Profile Picture"){:.profile}
 
@@ -16,8 +17,12 @@ In the Λ-cold dark matter universe, frequent galaxy mergers and the subsequent 
 
 <h1> A New Channel of BulgeFormation via the Destruction of Short Bars </h1>
 
+Advisors: [Luis C. Ho](http://kavli.pku.edu.cn/~lho/), [Victor P. Debattista](http://www.star.uclan.ac.uk/~vpd/)
+
 I studied real and simulated galaxies from both observational and dynamical points of view. Through morphological decomposition for the structures of the galaxy models in N-body simulations using IRAF and GALFIT, I investigated the long-term evolution of barred galaxies with growth of central BHs. After adjusting the models and performing a comprehensive analysis for about one year, we demonstrated that the destruction of short bar contributes significantly to the growth of the bulge which finally bears many similarities to a classical bulge in terms of observation. These results have important implications for the secular evolution of active galaxies and the effect of BH growth in shaping the inner structures of galaxies. This led to a first-author paper published in Astrophysical Journal.
 
 <h1> Numerical Study of Modified Gravity Theory and the Application to Neutron Stars and Gravitational Waves </h1>
+
+Advisor: [Lijing Shao](https://friendshao.github.io/about/)
 
 I investigated a scalar-tensor gravity theory proposed by Damour and Esposito-Farèse (DEF) that predicts large deviations from General Relativity for neutron stars through spontaneous scalarization phenomena. I constructed reduced-order surrogate model for the derived quantities in this theory, coded in a python package pySTGROMX that speeds up calculations at two orders of magnitude yet still keeps accuracy, compared with the previous algorithms. As an application, we utilized pySTGROMX to explore constraints on the DEF theory with latest well-timed binary pulsars and gravitational waves through Markov Chain Monte Carlo simulations. I am currently working on a first-author paper manuscript in prep for Physical Review D.
