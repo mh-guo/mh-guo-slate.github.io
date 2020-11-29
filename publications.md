@@ -5,8 +5,6 @@ permalink: /publications/
 main_nav: true
 ---
 
-I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/), supervised by Prof. Luis C. Ho, Victor P. Debattista, Kohei Inayoshi and Lijing Shao.
-
 Minghao Guo, Kohei Inayoshi, Tomonari Michiyama, and Luis C. Ho, Hunting for Wandering MassiveBlack Holes, [ApJ901, 39 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/abacc1), [arXiv:2006.08203 [astro-ph.HE]](https://arxiv.org/abs/2006.08203) .
 
 Minghao Guo, Min Du, Luis C. Ho, Victor P. Debattista, and Dongyao Zhao, A New Channel of BulgeFormation via the Destruction of Short Bars, [ApJ888, 65 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/ab584a), [arXiv:1911.07002 [astro-ph.GA]](https://arxiv.org/abs/1911.07002) .
