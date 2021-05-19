@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile_Minghao.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile_Minghao_2.jpg "Profile Picture"){:.profile}
 
 I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/), supervised by Prof. Luis C. Ho, Victor P. Debattista, Kohei Inayoshi and Lijing Shao.
 
