@@ -5,7 +5,7 @@ permalink: /publications/
 main_nav: true
 ---
 
-<b>Minghao Guo</b>, Junjie Zhao, and Lijing Shao, Extended reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and gravitational waves, [arXiv:2106.01622 [gr-qc]](https://arxiv.org/abs/2106.01622) .
+<b>Minghao Guo</b>, Junjie Zhao, and Lijing Shao, Extended reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and gravitational waves, [PhRvD104, 104065(2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104065), [arXiv:2106.01622 [gr-qc]](https://arxiv.org/abs/2106.01622) .
 
 <b>Minghao Guo</b>, Kohei Inayoshi, Tomonari Michiyama, and Luis C. Ho, Hunting for Wandering MassiveBlack Holes, [ApJ901, 39 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/abacc1), [arXiv:2006.08203 [astro-ph.HE]](https://arxiv.org/abs/2006.08203) .
 
