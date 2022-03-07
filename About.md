@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/MGatPKU.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/MGatPKU.jpeg "Profile Picture"){:.profile}
 
 I am Minghao Guo 郭明浩. I am currently an undergraduate of [Peking Unversiy](https://www.pku.edu.cn/), supervised by Prof. Luis C. Ho, Victor P. Debattista, Kohei Inayoshi and Lijing Shao. I will be a graduate student at [Department of Astrophysical Sciences, Princeton University](https://web.astro.princeton.edu/) in 2021.
 
