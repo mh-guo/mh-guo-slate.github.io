@@ -5,12 +5,10 @@ permalink: /about/
 main_nav: true
 ---
 
-
-I am Minghao Guo 郭明浩. I am currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. James Stone and Eliot Quataert. I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in both theoretical and observational astrophysics. I was born in Changzhi City, China.
-
-
 ![alt text]({{ site.baseurl }}/assets/MG_Weiming.png "Profile Picture"){:.profile}
 *Me at Weiming Lake in Peking University*
+
+I am Minghao Guo 郭明浩. I am currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. James Stone and Eliot Quataert. I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in both theoretical and observational astrophysics. I was born in Changzhi City, China.
 
 
 I major in physics with particular interest in astrophysics and broad background in mathematics and computer science. I am interested in a variety of intriguing topics in astronomy and astrophysics, especially black hole astrophysics, cosmology, galaxy formation, gravitational wave and gravity test. I generally use numerical techniques and tools to investigate the abundant phenomenon in various fields in astrophysics. I have experience on doing research involving theoretical, numerical and observational astrophysics, e.g., coevolution between supermassive black holes and host galaxies, black hole accretions as well as modified gravity and the application onto neutron stars.
@@ -20,9 +18,8 @@ I major in physics with particular interest in astrophysics and broad background
 
 <video width="800" controls>
   <source src="/assets/MG_jump.mp4" type="video/mp4">
-  Me "jumping off the cliff"
 </video>
-
+Me "jumping off the cliff"
 
 You can find out more info about me in my [Homepage](https://mh-guo.github.io/)
 
