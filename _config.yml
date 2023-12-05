@@ -109,7 +109,7 @@ social:
     share: false
 
   - name: ORCID
-    icon: ORCID
+    icon: orcid
     username: "Minghao Guo"
     url: "https://orcid.org/0000-0002-3680-5420"
     desc: 
