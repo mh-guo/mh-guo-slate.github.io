@@ -101,11 +101,18 @@ social:
     desc: Fork me on GitHub
     share: false
 
+  - name: GitLab
+    icon: gitlab
+    username: mhguo
+    url: https://gitlab.com/mhguo
+    desc: Fork me on GitLab
+    share: false
+
   - name: ORCID
     icon: ORCID
-    username: ""
-    url: ""
-    desc: Fork me on GitHub
+    username: "Minghao Guo"
+    url: "https://orcid.org/0000-0002-3680-5420"
+    desc: 
     share: false
  
 
