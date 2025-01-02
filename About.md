@@ -15,10 +15,11 @@ I major in physics with particular interest in astrophysics and broad background
 ![alt text]({{ site.baseurl }}/assets/MG_PKU_west_gate.jpeg "Profile Picture"){:.profile}
 *Me in Peking University*
 
-<video width="800" controls>
+<!---<video width="800" controls>
   <source src="/assets/MG_jump.mp4" type="video/mp4">
 </video>
 Me "jumping off the cliff"
+-->
 
 You can find out more info about me in my [Homepage](https://mh-guo.github.io/)
 
